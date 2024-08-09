@@ -1,0 +1,9 @@
+convertapi
+opencv-python
+numpy
+pyaudio
+vosk
+word2number
+pyttsx3
+pytesseract
+cvzone
