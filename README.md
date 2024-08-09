@@ -5,12 +5,6 @@ This project enables controlling presentations using multiple input methods such
 Hand Gesture Recognition: Use predefined hand gestures to control presentation slides.
 Voice Commands: Navigate through slides using voice commands.
 
-## Installation
-### Clone the repository:
-
-git clone https://github.com/ShakthiUdhai/Multimodal-Interaction-for-presentation-control.git
-cd Multimodal-Interaction-for-presentation-control
-
 ### Install the required dependencies:
 
 pip install -r requirements.txt
